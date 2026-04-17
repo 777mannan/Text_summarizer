@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+output.txt
+
+# VS Code settings
+.vscode/
+
+# Environment
+venv/
+.env
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Markdown files
+*.md
+report.md
+ppt_prompt.md
+project_explanation.md

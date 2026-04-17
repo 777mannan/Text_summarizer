@@ -1,0 +1,6 @@
+# scikit-learn>=1.0.2
+# networkx>=2.8
+numpy
+nltk
+scikit-learn
+networkx
