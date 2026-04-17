@@ -17,4 +17,4 @@ RUN python -c "import nltk; nltk.download('punkt'); nltk.download('punkt_tab')"
 COPY . .
 
 # Command to run your script
-CMD ["python", "main.py"]
+CMD ["python", "main.py"]  
